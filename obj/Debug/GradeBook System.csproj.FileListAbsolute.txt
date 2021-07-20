@@ -1,0 +1,36 @@
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\GradeBook System.exe.config
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\GradeBook System.exe
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\GradeBook System.pdb
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.Form1.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.Properties.Resources.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.csproj.GenerateResource.cache
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.csproj.CoreCompileInputs.cache
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.exe
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.pdb
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.csprojAssemblyReference.cache
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.RegistrationForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\MySql.Data.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\Google.Protobuf.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\Zstandard.Net.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\System.Memory.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\System.Buffers.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\MySql.Data.xml
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook System.csproj.CopyComplete
+C:\Users\mevilyn\source\repos\GradeBook System\bin\Debug\Guna.UI2.dll
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.ManageStudentForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.PrintStudent.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.CourseForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.ManageCourseForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.PrintCourseForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.ScoreForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.ManageScoreForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.PrintScoreForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.LoginForm.resources
+C:\Users\mevilyn\source\repos\GradeBook System\obj\Debug\GradeBook_System.SplashForm.resources
